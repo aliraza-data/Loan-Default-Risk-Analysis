@@ -62,6 +62,7 @@ This step helps validate insights obtained during exploratory analysis.
 
 ## Repository Structure
 
+<pre>
 Loan-Default-Risk-Analysis
 ├── README.md
 │
@@ -76,7 +77,7 @@ Loan-Default-Risk-Analysis
 │
 └── Presentation
     └── Loan_Default_Project_Presentation.pptx
-
+</pre>
 
 ## How to Use
 
