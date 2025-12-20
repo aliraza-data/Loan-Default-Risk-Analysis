@@ -20,7 +20,7 @@ The approach is **insight-first**, where exploratory analysis and visualization 
 
 The dataset used in this project is sourced from Kaggle and contains anonymized loan and borrower information.
 
-🔗 **Direct Dataset Link (Kaggle):**  
+🔗 **Dataset Link (Kaggle):**  
 https://www.kaggle.com/datasets/nikhil1e9/loan-default
 
 ### Dataset includes:
@@ -63,30 +63,29 @@ This step helps validate insights obtained during exploratory analysis.
 ## Repository Structure
 
 Loan-Default-Risk-Analysis
-├── README.md
-│
-├── Analysis
-│ └── Loan_Default_Analysis.ipynb
-│
-├── Model
-│ └── Loan_Default_Model.ipynb
-│
-├── Visualization
-│ └── Loan_Default_Dashboard.pbix
-│
-└── Presentation
-└── Loan_Default_Project_Presentation.pptx
 
-css
-Copy code
+├── README.md
+
+├── Analysis
+
+│ └── Loan_Default_Analysis.ipynb
+
+├── Model
+
+│ └── Loan_Default_Model.ipynb
+
+├── Visualization
+
+│ └── Loan_Default_Dashboard.pbix
+
+└── Presentation
+
+└── Loan_Default_Project_Presentation.pptx
 
 ## How to Use
 
 1. Clone the repository:
 git clone https://github.com/aliraza-data/Loan-Default-Risk-Analysis.git
-
-pgsql
-Copy code
 2. Download the dataset directly from Kaggle using the provided link.
 3. Open the Jupyter notebooks to review analysis and modeling steps.
 4. Open the Power BI dashboard to explore interactive insights.
