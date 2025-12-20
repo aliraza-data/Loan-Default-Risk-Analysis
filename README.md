@@ -63,24 +63,20 @@ This step helps validate insights obtained during exploratory analysis.
 ## Repository Structure
 
 Loan-Default-Risk-Analysis
-
 ├── README.md
-
+│
 ├── Analysis
-
-│ └── Loan_Default_Analysis.ipynb
-
+│   └── Loan_Default_Analysis.ipynb
+│
 ├── Model
-
-│ └── Loan_Default_Model.ipynb
-
+│   └── Loan_Default_Model.ipynb
+│
 ├── Visualization
-
-│ └── Loan_Default_Dashboard.pbix
-
+│   └── Loan_Default_Dashboard.pbix
+│
 └── Presentation
+    └── Loan_Default_Project_Presentation.pptx
 
-└── Loan_Default_Project_Presentation.pptx
 
 ## How to Use
 
