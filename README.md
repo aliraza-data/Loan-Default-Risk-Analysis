@@ -76,15 +76,15 @@ Loan-Default-Risk-Analysis
 3. Open the Jupyter notebook to review the analysis.
 4. Open the Power BI dashboard to explore interactive insights.
 
-## 🎯 Project Outcome
+## Project Outcome
 
 This project highlights an insight-focused data analytics workflow and demonstrates how financial data can be analyzed and visualized to support risk assessment and decision-making.
 
-## 🤝 Contributions
+## Contributions
 
 Suggestions and improvements are welcome. Feel free to fork the repository or open an issue for discussion.
 
-## 🧾 Reference
+## Reference
 
 Loan Default Dataset  
 Source: Kaggle  
